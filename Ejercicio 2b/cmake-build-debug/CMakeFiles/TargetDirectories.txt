@@ -1,0 +1,3 @@
+C:/Ingeniería Informática UAX/2023-24/1er cuatrimestre/Programación/Ejercicios/Coleccion-de-Ejercicios-Libreria-estandar-de-C/Ejercicio 2b/cmake-build-debug/CMakeFiles/Ejercicio_2b.dir
+C:/Ingeniería Informática UAX/2023-24/1er cuatrimestre/Programación/Ejercicios/Coleccion-de-Ejercicios-Libreria-estandar-de-C/Ejercicio 2b/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Ingeniería Informática UAX/2023-24/1er cuatrimestre/Programación/Ejercicios/Coleccion-de-Ejercicios-Libreria-estandar-de-C/Ejercicio 2b/cmake-build-debug/CMakeFiles/rebuild_cache.dir
