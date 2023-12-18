@@ -2,12 +2,12 @@
 #include <stdio.h>
 
 int main() {
-    // Declarar un número negativo
-    int num = -10;
+    int num;
 
-    // Obtener el valor absoluto utilizando abs()
+    printf("Ingresa un número: ");
+    scanf("%d", &num);
+
     int abs_num = abs(num);
-
     printf("El valor absoluto de %d es %d\n", num, abs_num);
 
     return 0;
