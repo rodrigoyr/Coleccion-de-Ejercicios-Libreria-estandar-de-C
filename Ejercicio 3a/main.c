@@ -1,11 +1,14 @@
 #include <stdio.h>
 
 int main() {
-    FILE *file = fopen("file.txt", "r");
+    const char *filename = "file.txt";
+    FILE *file = fopen(filename, "r");
+
     if (file == NULL) {
-        printf("El archivo no se pudo abrir.\n");
+        printf("No se pudo abrir el archivo '%s'.\n", filename);
         return 1;
     }
+
 
     fclose(file);
 
