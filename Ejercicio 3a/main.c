@@ -7,7 +7,6 @@ int main() {
         return 1;
     }
 
-    // Cerrar el archivo al final
     fclose(file);
 
     return 0;
