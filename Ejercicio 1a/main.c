@@ -4,7 +4,7 @@
 int main() {
     int num;
 
-    printf("Ingresa un número: ");
+    printf("Ingresa un numero: ");
     scanf("%d", &num);
 
     int abs_num = abs(num);
