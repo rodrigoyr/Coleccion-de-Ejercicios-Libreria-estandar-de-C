@@ -2,10 +2,10 @@
 #include <stdio.h>
 
 int main() {
-    char str1[] = "Hola";
-    char str2[] = "Mundo";
+    const char *str1 = "Holaa";
+    const char *str2 = "Munditooo";
 
-    int comparison = strcmp(str1, str2);
+    int comparison = strncmp(str1, str2, strlen(str1));
 
     if (comparison == 0) {
         printf("Las cadenas son iguales.\n");
