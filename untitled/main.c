@@ -3,10 +3,10 @@
 #include <time.h>
 
 int main() {
-    srand(time(0));
+    srand(time(NULL));
 
     int random_number = rand();
-    printf("Número aleatorio: %d\n", random_number);
+    printf("Numero aleatorio: %d\n", random_number);
 
     return 0;
 }
